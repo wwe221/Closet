@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"cf56fc9617d8a47c","x":-203,"y":-456,"width":400,"height":400,"type":"file","file":"상의/미엘 무지 맨투맨 black.md"},
+		{"id":"155672134e191443","x":242,"y":-456,"width":400,"height":400,"type":"file","file":"상의/옥스포드 릴랙스핏 셔츠.md"},
+		{"id":"94d0b372dba4e1ef","x":687,"y":-456,"width":400,"height":400,"type":"file","file":"상의/제멋 헤븐 투웨이 테리 후드집업.md"},
+		{"id":"856f2b4226e21432","x":1132,"y":-456,"width":400,"height":400,"type":"file","file":"상의/퍼스텝 필드 다잉 루즈핏 셔츠 그린.md"},
+		{"id":"1ff60665a3da788e","x":1577,"y":-456,"width":400,"height":400,"type":"file","file":"상의/퍼스텝 필드 다잉 루즈핏 셔츠 BLACK.md"},
+		{"id":"74d3aecb482bf171","x":-203,"y":40,"width":400,"height":400,"type":"file","file":"바지/유니클로 셀비지 레귤러핕.md"},
+		{"id":"344bee27173086a8","x":242,"y":40,"width":400,"height":400,"type":"file","file":"바지/키큰남자바지 남자롱와이드슬랙스.md"},
+		{"id":"8a18ab874de1b52d","x":687,"y":40,"width":400,"height":400,"type":"file","file":"바지/파라슈트 카고 팬츠.md"},
+		{"id":"392f8c5fd9080148","x":1132,"y":40,"width":400,"height":400,"type":"file","file":"바지/플랙 스티즈 K48 딥워시드.md"}
+	],
+	"edges":[]
+}

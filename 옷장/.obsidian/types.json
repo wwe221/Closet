@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "사이즈표": "checkbox",
+    "종류": "multitext"
+  }
+}
