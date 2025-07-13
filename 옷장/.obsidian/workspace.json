@@ -4,42 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "48a9de33040db74c",
+        "id": "a0e97936f3b73fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "7d3d04ea189b1514",
+            "id": "f7af281ab4e0b3e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Master"
+            }
+          },
+          {
+            "id": "c6e2e49f0422edba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "상의/애론 럭비 카라 스웨트셔츠 크림그레이.md",
+                "file": "바지/퍼스텝 필드 다잉 루즈핏 셔츠_모스그린.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "애론 럭비 카라 스웨트셔츠 크림그레이"
+              "title": "퍼스텝 필드 다잉 루즈핏 셔츠_모스그린"
             }
           },
           {
-            "id": "fc228be48c827ff0",
+            "id": "2bd05efc54f6745f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "캔버스.canvas",
-                "viewState": {
-                  "x": 1130.6335724339417,
-                  "y": -102.57076021649567,
-                  "zoom": -1.1875810576311485
-                }
+                "file": "img/상의/유니클로 코튼 오버사이즈크루넥_그레이.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "캔버스"
+              "icon": "lucide-image",
+              "title": "유니클로 코튼 오버사이즈크루넥_그레이"
+            }
+          },
+          {
+            "id": "d84c47d9d186d546",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/상의/유니클로 코튼 오버사이즈크루넥_그레이.png"
+              },
+              "icon": "lucide-image",
+              "title": "유니클로 코튼 오버사이즈크루넥_그레이"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +80,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -96,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "right": {
     "id": "ee3dc1bcacf010aa",
@@ -183,48 +205,58 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "fc228be48c827ff0",
+  "active": "f7af281ab4e0b3e5",
   "lastOpenFiles": [
-    "template/옷.md",
+    "바지/제멋_오버핏 기모 후드티_네이비.md",
+    "Master.md",
+    "img/하의/plac1.png",
+    "img/상의/유니클로 코튼 오버사이즈크루넥_그레이.png",
+    "바지/퍼스텝 필드 다잉 루즈핏 셔츠_모스그린.md",
+    "유니클로 코튼 오버사이즈크루넥_그레이.md",
+    "데일리 발마칸 코트.md",
+    "유니클로 코튼 오버사이즈크루넥_화이트.md",
+    "유니클로 코튼 오버사이즈크루넥_그린.md",
+    "유니클로 코튼 오버사이즈크루넥_블랙.md",
+    "img/상의/유니클로 코튼 오버사이즈크루넥_블랙.png",
+    "img/상의/유니클로 코튼 오버사이즈크루넥_그린.png",
+    "img/상의/유니클로 코튼 오버사이즈크루넥_화이트.png",
+    "Pasted image 20250713030613.png",
+    "img/상의/데일리 발마칸 코트.png",
+    "img/하의/사이즈/Pasted image 20250713021256.png",
+    "img/상의/사이즈/Pasted image 20250713024727.png",
+    "나일론 크리즈 초어 재킷_네이비.md",
+    "img/상의/나일론 크리즈 초어 재킷_네이비.png",
+    "상의.md",
     "캔버스.canvas",
-    "img/네이비_야구잠바.png",
-    "img/네이비 울 블렌디드 체크 셔켓.png",
-    "상의/퍼스텝 필드 다잉 루즈핏 셔츠 BLACK.md",
-    "상의/퍼스텝 필드 다잉 루즈핏 셔츠 그린.md",
+    "무제 1.md",
+    "무제 2.md",
+    "바지/린넨 라이크 엑스트라 와이드 데님 팬츠_라이트 인디고.md",
+    "바지/오버사이즈 데님 트러커 재킷_다크블루.md",
+    "img/하의/시티 레저 CN 벨티드 유틸리티 쇼츠.jpg.crdownload",
+    "img/상의/와이드 버뮤다 히든 밴딩 하프 슬랙스.jpg.crdownload",
+    "바지/퍼스텝 필드 다잉 루즈핏 셔츠 블랙.md",
+    "바지/제멋_오버핏 기모 후드티.md",
+    "바지/블랙 오픈 칼라 풀오버 니트.md",
+    "상의/옥스포드 릴랙스핏 셔츠.md",
+    "상의/브라운 오픈 칼라 풀오버 니트.md",
+    "상의/미엘 무지 맨투맨 black.md",
+    "상의/네이비_야구잠바.md",
+    "상의/네이비 울 블렌디드 체크 셔켓.md",
     "상의/제멋 헤븐 투웨이 테리 후드집업.md",
     "상의/자라 집업 니트 재킷.md",
-    "무제.md",
-    "img/애론 럭비 카라 스웨트셔츠 크림그레이.png",
     "상의/애론 럭비 카라 스웨트셔츠 크림그레이.md",
-    "상의/미엘 무지 맨투맨 black.md",
-    "img/애론 럭비 카라 스웨트셔츠 크림그레이 사이즈.png",
-    "바지/유니클로_와이드스트레이트진.md",
-    "바지/유니클로 셀비지 레귤러핕.md",
-    "img/유니클로_와이드스트레이트진.png",
-    "img/유니클로_와이드스트레이트진2.png",
-    "img/유니클로 셀비지 레귤러핕_SIZE.png",
-    "img/유니클로 셀비지 레귤러핕.png",
-    "img/옥스포드 릴랙스핏 셔츠_SIZE.png",
-    "바지/키큰남자바지 남자롱와이드슬랙스.md",
-    "img/자라 집업 니트 재킷.png",
-    "무제 1.canvas",
-    "바지/플랙 스티즈 K48 딥워시드.md",
-    "상의/옥스포드 릴랙스핏 셔츠.md",
-    "img/퍼스텝 필드 다잉 루즈핏 셔츠_모스그린.jpg.crdownload",
-    "img/퍼스텝 필드 다잉 루즈핏 셔츠.jpg.crdownload",
-    "img/네이비_야구잠바.png.crdownload",
-    "img/네이비 울 블렌디드 체크 셔켓.png.crdownload",
-    "img/제멋_오버핏 기모 후드티_네이비_SIZE.png.crdownload",
-    "img/제멋_오버핏 기모 후드티_네이비.png.crdownload",
-    "img/제멋_오버핏 기모 후드티_SIZE.png.crdownload",
-    "img/제멋_오버핏 기모 후드티.png.crdownload",
-    "img/브라운 오픈 칼라 풀오버 니트.png.crdownload",
-    "img/블랙 오픈 칼라 풀오버 니트.png.crdownload",
-    "바지/파라슈트 카고 팬츠.md",
-    "환영합니다!.md",
-    "무제 2.md"
+    "img/하의/사이즈",
+    "img/상의/사이즈",
+    "img/하의",
+    "img/상의",
+    "plugins/obsidian-sample-plugin/styles.css",
+    "plugins/obsidian-sample-plugin/main.ts",
+    "plugins/obsidian-sample-plugin/styles - 복사본.css",
+    "plugins/obsidian-sample-plugin",
+    "무제 1.canvas"
   ]
 }
